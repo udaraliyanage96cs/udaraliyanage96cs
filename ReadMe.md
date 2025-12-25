@@ -157,12 +157,5 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 
 ---
 
-### GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 *Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.*
