@@ -2,7 +2,7 @@
 
 **Full-Stack Web & Mobile Application Developer**  
 Passionate about building scalable, user-friendly, and real-world solutions  
-Based in Sri Lanka
+Based in Sri Lanka 🇱🇰
 
 I'm a results-driven developer with strong experience in JavaScript ecosystems, backend systems, and modern web technologies. I enjoy turning complex requirements into clean, efficient, and maintainable code.
 
@@ -10,9 +10,9 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 
 ## About Me
 
-- Full-stack developer with experience in Web, Mobile, Desktop & Browser Extensions
-- Comfortable working with both frontend & backend architectures
-- Strong problem-solving mindset with attention to performance & UX
+- Full-stack developer experienced in Web, Mobile, Desktop & Browser Extensions
+- Comfortable working across frontend & backend architectures
+- Strong problem-solving mindset with focus on performance & UX
 - Experienced in building internal tools, SaaS platforms, automation tools & dashboards
 - Open to freelance, contract, and full-time opportunities
 - Interested in startups, automation, AI-powered tools, and scalable systems
@@ -51,7 +51,7 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 
 ### AI & Automation
 - OpenAI / GPT APIs
-- AssemblyAI (speech-to-text)
+- AssemblyAI (Speech-to-Text)
 - Text-to-Speech
 - Data analysis & automation scripts (Python)
 
@@ -68,63 +68,65 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 
 ### Chrome Extensions
 **Meeting Transcription Extension**
-- Works on Google Meet, Zoom & Teams
-- Real-time transcription & diarization
-- AI-powered meeting analysis & summaries
+- Supports Google Meet, Zoom & Microsoft Teams
+- Real-time transcription with speaker diarization
+- AI-powered meeting summaries and analysis
 
 **Website Screenshot Automation Tool**
-- Captures desktop & mobile screenshots (including iPhone views)
-- Auto-saves images locally
+- Automated desktop & mobile screenshots (including iPhone resolutions)
+- Saves images directly to local storage
 
 ### Web Applications
-**Appointment Booking Platform** *(Startup Idea)*
-- Shop profiles with unique booking URLs
-- Client appointment scheduling
+**Appointment Booking Platform** *(Startup Project)*
+- Business profiles with unique booking URLs
+- Client appointment scheduling system
+- SaaS-ready architecture
 
 **POS System for Hardware Store**
-- Inventory management
+- Inventory and stock management
 - Cash & credit customer handling
-- Non-technical user friendly UI
+- Designed for non-technical users
 
 **Training & Resource Management System**
 - Analytics dashboards
 - PDF report generation
-- Attendance & payroll calculation
+- Attendance-based payroll calculations
 
 ### AI & Media Tools
 **Python Video Generator**
-- Text → Voice
-- Auto image selection
-- Subtitle rendering for TikTok-style videos
+- Converts text to voice
+- Automatically selects visuals
+- Generates TikTok/Reels-style videos with subtitles
 
-**Barcode Generator**
-- React + Firebase + Electron
-- Barcode limits & usage tracking
+**Barcode Generator** *(Web & Desktop)*
+- Built using React, Firebase & Electron
+- Barcode usage limits and tracking
 - PDF export support
 
-### Mobile & Real-Time Apps
-**Private Video Call App**
+### Mobile & Real-Time Applications
+**Private Video Call Application**
 - Built with Agora.io
-- Multiple private call rooms simultaneously
+- Supports multiple private call rooms
+- Real-time audio & video communication
 
 ---
 
 ## What I'm Good At
 
 - Writing clean, maintainable backend logic
-- Designing user-friendly interfaces
+- Designing intuitive and user-friendly interfaces
 - Handling complex business rules
-- Working with large datasets & exports
-- Building automation tools
-- Integrating AI services into real products
+- Working with large datasets and heavy exports
+- Building automation and productivity tools
+- Integrating AI services into real-world products
 
 ---
 
 ## Currently Exploring
 
 - Advanced system architecture
-- Performance optimization
-- AI-driven SaaS ideas
+- Performance optimization techniques
+- AI-driven SaaS products
 - Scalable backend patterns
 - Developer productivity tools
 
@@ -132,18 +134,18 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 
 ## Freelancing & Professional Work
 
-- **Fiverr gigs:**
+- **Fiverr Gigs:**
   - Telegram AI Bots
   - Chrome Extensions
-- Worked on internal tools, enterprise systems, and custom automation
+- Experience with internal tools, enterprise systems, and custom automation solutions
 
 ---
 
 ## How to Reach Me
 
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/udara-liyanage-6ba408133/)
-- **GitHub:** [github.com/yourusername](https://github.com/udaraliyanage96cs)
-- **Website:** https://udarax.me
+- **LinkedIn:** [linkedin.com/in/udara-liyanage-6ba408133](https://www.linkedin.com/in/udara-liyanage-6ba408133/)
+- **GitHub:** [github.com/udaraliyanage96cs](https://github.com/udaraliyanage96cs)
+- **Website:** [udarax.me](https://udarax.me)
 - **Email:** ldudaraliyanage@gmail.com
 - **Location:** Sri Lanka
 
@@ -152,10 +154,17 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 ## Fun Facts
 
 - A client once contacted me after finding me via ChatGPT
-- I enjoy building tools that save time & reduce manual work
-- I like working on projects that solve real problems
+- I enjoy building tools that save time and reduce manual work
+- I prefer working on projects that solve real-world problems
 
 ---
 
+### GitHub Stats
 
-*Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.*
+![Udara's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaraliyanage96cs&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaraliyanage96cs&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.
