@@ -159,12 +159,4 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 
 ---
 
-### GitHub Stats
-
-![Udara's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaraliyanage96cs&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaraliyanage96cs&layout=compact&theme=radical)
-
----
-
 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.
