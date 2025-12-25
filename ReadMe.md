@@ -144,7 +144,7 @@ I'm a results-driven developer with strong experience in JavaScript ecosystems, 
 - **LinkedIn:** [Your Profile](https://www.linkedin.com/in/udara-liyanage-6ba408133/)
 - **GitHub:** [github.com/yourusername](https://github.com/udaraliyanage96cs)
 - **Website:** https://udarax.me
-- **Email:** your.email@example.com
+- **Email:** ldudaraliyanage@gmail.com
 - **Location:** Sri Lanka
 
 ---
